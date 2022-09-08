@@ -54,7 +54,7 @@ https://drive.google.com/file/d/18jLcN7_6ENHKTyepq2pChxLb23_VC2i1/view
 
 ## Author
 Shek Chun Lee
-Contact: leeshekchun@gmail.com
+leeshekchun@gmail.com
 
 ## License
 Copyright (c) 2022 Shek Chun Lee
