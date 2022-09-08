@@ -25,10 +25,10 @@ const userController = {
           path: "thoughts",
           select: "-__v",
         },
-        {
-          path: "friends",
-          select: "-__v",
-        }
+        // {
+        //   path: "friends",
+        //   select: "-__v",
+        // }
       )
       .then((dbUserData) => {
         if (!dbUserData) {
