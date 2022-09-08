@@ -42,6 +42,9 @@ https://drive.google.com/file/d/18jLcN7_6ENHKTyepq2pChxLb23_VC2i1/view
 | Mongoose|
 | JavaScript Data|
 
+## Author
+Shek Chun Lee
+Contact: leeshekchun@gmail.com
 
 Copyright (c) 2022 Shek Chun Lee
 
