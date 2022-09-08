@@ -42,8 +42,12 @@ https://drive.google.com/file/d/18jLcN7_6ENHKTyepq2pChxLb23_VC2i1/view
 | Mongoose|
 | JavaScript Data|
 
-##
+## Code Snipet
+
+Get Thoughts:
 <img width="633" alt="Screen Shot 2022-09-07 at 9 15 29 PM" src="https://user-images.githubusercontent.com/99776016/189026291-e4080c9e-0f00-401e-be00-20edf7a72408.png">
+
+Get Users:
 <img width="597" alt="Screen Shot 2022-09-07 at 9 15 46 PM" src="https://user-images.githubusercontent.com/99776016/189026296-b375d501-578a-40fe-b8ac-9722fcebba1d.png">
 
 
